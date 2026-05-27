@@ -1,0 +1,19 @@
+# Notas de trabajo locales — no se suben a GitHub
+DEPLOY-GOOGLE-CLOUD.md
+diagramas/
+
+# Dependencias
+node_modules/
+package-lock.json
+
+# Variables de entorno
+.env
+.env.local
+
+# Credenciales de Google Cloud
+*-credentials.json
+*-key.json
+service-account*.json
+
+# Build
+dist/
