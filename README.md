@@ -2,8 +2,6 @@
 
 Aplicación fullstack desplegada en producción. Frontend React que inicia transferencias bancarias procesadas de forma asíncrona mediante Google Cloud Pub/Sub, con validación en segundo plano por un worker y polling de estado en tiempo real.
 
-**Demo en vivo:** https://transferencias-api-1006993538708.us-central1.run.app/health
-
 ---
 
 ## Vista previa
